@@ -1,4 +1,4 @@
-# Problem: https://adventofcode.com/2020/day/?
+# Problem: https://adventofcode.com/2020/day/10
 
 # Input
 from sys import stdin
