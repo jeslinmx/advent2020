@@ -139,3 +139,5 @@ cython_debug/
 
 # AoC problem inputs
 *.in
+aoctemplate.py
+.vscode
